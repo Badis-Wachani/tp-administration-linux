@@ -11,7 +11,7 @@ Fait en binôme par **Badis WACHANI** ([@Badis-Wachani](https://github.com/Badis
 
 Le scénario : une PME avec plein de serveurs et des tâches encore faites à la main. On a monté deux VM (Red Hat 9 et Ubuntu 24 sous VMware), on les a sécurisées, puis on a automatisé ce qu'on pouvait en Bash.
 
-📄 Le rapport complet avec toutes nos captures : [`rapport/TP_Linux_Badis_Geoffrey.pdf`](rapport/TP_Linux_Badis_Geoffrey.pdf)
+📄 **Le rapport complet (PDF, 41 pages)** est dans le dossier [`rapport/`](rapport/) : [le lire en ligne](rapport/TP_Linux_Badis_Geoffrey.pdf) ou [⬇️ le télécharger](https://github.com/Badis-Wachani/tp-administration-linux/raw/main/rapport/TP_Linux_Badis_Geoffrey.pdf)
 
 ---
 
@@ -19,6 +19,7 @@ Le scénario : une PME avec plein de serveurs et des tâches encore faites à la
 
 | Dossier | TP | Ce qu'il y a dedans |
 |---|---|---|
+| [`rapport/`](rapport/) | Tout | Le rapport PDF complet avec nos captures |
 | [`tp1-installation-ssh/`](tp1-installation-ssh/) | 1.1 et 1.2 | Install RHEL 9 en LVM + XFS, post-install, IP fixe, SSH par clés, config `sshd` |
 | [`tp1.3-comptes-acl/`](tp1.3-comptes-acl/) | 1.3 | 10 comptes, 3 groupes (admin, dev, guest), arborescence `/srv` |
 | [`tp1.4-service-systemd/`](tp1.4-service-systemd/) | 1.4 | `monapp.sh` + `monapp.service` + `monapp.timer` |
