@@ -5,7 +5,7 @@
 Cybersup · Bachelor 3 AIS · 2026–2027
 Encadré par Sofiane BOULJARF
 
-Fait en binôme par **Badis WACHANI** ([@Badis-Wachani](https://github.com/Badis-Wachani)) et **Geofrey FRAY** ([@gffrey541](https://github.com/gffrey541))
+Fait en binôme par **Badis WACHANI** ([@Badis-Wachani](https://github.com/Badis-Wachani)) et **Geoffrey** ([@gffrey541](https://github.com/gffrey541))
 
 ![Aperçu du TP](images/apercu.png)
 
