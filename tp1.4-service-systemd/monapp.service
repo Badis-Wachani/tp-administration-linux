@@ -1,0 +1,17 @@
+[Unit]
+Description=Service MonApp
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=monapp
+Group=monapp
+ExecStart=/bin/bash /srv/monapp/monapp.sh
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
