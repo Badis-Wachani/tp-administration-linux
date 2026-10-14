@@ -1,0 +1,7 @@
+#SSH - RedHat
+PermitRootLogin no
+PasswordAuthentication no
+PubkeyAuthentication yes
+MaxAuthTries 3
+X11Forwarding no
+AllowUsers badis
