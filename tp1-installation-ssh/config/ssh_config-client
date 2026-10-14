@@ -1,0 +1,7 @@
+# ~/.ssh/config côté PC (chmod 700)
+Host rhel9-lab rhel
+    HostName 10.0.0.10
+    User badis
+    Port 22
+    IdentityFile ~/.ssh/id_ed25519
+    IdentitiesOnly yes
